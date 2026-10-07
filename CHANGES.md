@@ -47,3 +47,34 @@
 - Cree una orden de dos pizzas.
 - Agregué la preparación, el pago y los resultados en consola.
 - Agregué un manejo de errores para mostrar qué salió mal.
+
+- Agregué VistaPizzeria usando JFrame.
+- Configuré el título, tamaño y cierre de la ventana.
+- Cambié Main para abrir la interfaz gráfica.
+
+### Panel de ventana
+- Agregué paneles para el formulario, el comprobante y los botones.
+- Usé layouts para organizar los componentes.
+- Agregué bordes con títulos y márgenes.
+- Coloqué etiquetas temporales para ver la distribución.
+
+### Campos formu
+- Agregué campos para nombre, dinero y cantidad.
+- Cambié el formulario a tres filas.
+- Agregué métodos para consultar lo escrito.
+- Dejé la cantidad inicial en 1.
+
+### Seccion pizza
+- Agregué una lista para elegir el sabor.
+- Agregué opciones para masa tradicional o delgada.
+- Agrupé las opciones para elegir solo una masa.
+- Agregué métodos para consultar las selecciones.
+
+### Botones / comprobante
+## Botones y comprobante
+
+- Agregué una casilla para confirmar el pedido.
+- Agregué los botones Crear orden y Limpiar.
+- Agregué un área de texto para mostrar el comprobante.
+- Agregué métodos para conectar los botones con el controlador.
+- Agregué métodos para mostrar errores y limpiar el formulario.
